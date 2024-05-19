@@ -6,6 +6,7 @@ import HeartIcon from "../assets/favorites-icon.svg";
 import SearchIcon from "../assets/search-icon.svg";
 import {Link} from "react-router-dom";
 
+
 const Header = () => {
 
 
@@ -64,7 +65,7 @@ const Header = () => {
             </div>
         </div>
     </div>;
-    
+
 };
 
 export default Header;
